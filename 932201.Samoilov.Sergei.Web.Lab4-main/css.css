@@ -1,0 +1,161 @@
+﻿*{
+  margin: 0%;
+}
+
+header{
+  background-color: #507299;
+  height: 45px;
+  position: fixed;
+  width: 100%;
+  top:0;
+}
+
+body{
+  background-color: #edeef0;
+}
+
+.line{
+  margin-top: 8px;
+  margin-bottom: 7px;
+  border-bottom: 3px solid #d0d0d0;
+ }
+
+.bigline{
+  margin-top: 8px;
+  margin-bottom: 7px;
+  margin-left: -20px;
+  margin-right: -20px;
+  border-top: 3px solid #d0d0d0;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  
+}
+
+.leftbar{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2e5473;
+  width: 230px;
+  margin-top: 65px;
+}
+
+li{
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+li:hover{
+  background-color: #e1e5eb;
+}
+
+.middle{
+  display: flex;
+  flex-direction: column;
+  margin-top: 58px;
+  padding-left: 20px;
+  margin-right: 18%;
+}
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+  width: 420px;
+  background-color: white;
+  padding: 20px 18px 15px;
+  border: solid 2px #E0E0E0;
+  border-radius: 12px;
+  text-align: justify;
+}
+
+.text::selection{
+  color: green;
+  background-color: #e1e5eb;
+}
+
+.rightbar{
+  margin-top: 50px;
+  position: fixed;
+  right: 400px;
+}
+
+.smallContainer{
+  margin: 10px;
+  max-width: 110px;
+  max-height: 120px;
+  background-color: white;
+  padding: 15px 10px 10px 10px;
+  border: 2px solid #d0d0d0;
+  border-radius: 10px;
+  flex:1;
+}
+
+
+.block1{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 140px;
+  margin-top: 15px;
+  background-color: white;
+  padding: 25px 10px;
+  border: solid 2px #E0E0E0;
+  border-radius: 5px;
+}
+
+.block2{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  max-width: 140px;
+  min-width: 140px;
+  background-color: white;
+  padding: 25px 10px;
+  border: solid 2px #E0E0E0;
+  border-radius: 5px;
+}
+
+p{
+  background-color: #edeef0;
+}
+
+footer{
+  background-color: white;
+  color: grey;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+@media  (max-width: 680px){
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+.leftbar li{
+  display: inline-block;
+  padding: 0 15px 0 15px;
+}
+
+.leftbar{
+  width: 470px;
+  margin-left: 0;
+}
+
+.leftbar li:nth-child(4){
+  margin-left: 10px;
+}
+
+.middle{
+  margin-top: 20px;
+}
+}
+
+@media  (max-width: 1400px){
+  .rightbar{
+      visibility: collapse;
+  }
+}

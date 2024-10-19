@@ -1,0 +1,16 @@
+body,html{
+margin:0%;
+}
+.window{
+border:10px solid;
+margin: auto;
+background-color: blue;
+color: white;
+width: 600px;
+}
+.hamster{
+max-width:300px; 
+max-height:265px;
+float: right;
+padding: 0 0 20px 20px;
+}

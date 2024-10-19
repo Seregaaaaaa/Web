@@ -1,0 +1,93 @@
+body, html{
+margin:0%;
+}
+header{
+font-family:courier;
+text-align:center;
+background-color:green;
+color:white;
+padding:0.6%;
+font-size: 1.06vw;
+}
+.text{
+background-color: blue;
+width: 35%;
+margin-left:35%;
+margin-right:35%;
+padding-top:0.5%;
+padding-left:2%;
+padding-right:1.5%;
+padding-bottom:0.5%;
+color: white;
+font-size:20px;
+font-family:arial;
+}
+.square{
+width: 6vw;
+height: 6vw;
+background-color: blue;
+border: 0.3vw solid white;
+border-radius: 1vw 0vw 1.5vw 0vw;
+float: left;
+margin: 0% 4% 5% 0%
+}
+a
+{color: red;}
+.link{
+text-align:center;
+margin-top:2%;
+margin-bottom:2%;
+}
+h2{
+word-spacing: 0.4vw;
+}
+li{
+line-height: 100%;
+padding-left: 5%;
+}
+#value2{
+letter-spacing: 0.4vw;
+color: cyan;
+}
+.visualP{
+font-size: 18px;
+padding: 0px;
+}
+td {
+width: 30px;
+height: 25px;
+border: solid 1px silver;
+text-align: center;
+vertical-align: bottom;
+}
+table {
+border: solid 1px silver;
+text-align: center; 
+float: right;
+height: 110px;
+width: 150px;
+margin-right: 15px;
+font-size: 18px;
+font-weight: 500;
+}
+
+.list{
+line-height:50%;
+}
+#pic{
+width:1.6vw; 
+height:1.6vw;
+float: right;
+margin-top: 3%;
+}
+footer 
+{
+font-family: arial;
+text-align: center;
+background-color: green;
+color: white;
+height: 30px;
+line-height: 30px;
+clear: both;
+font-size:1.06vw;
+}

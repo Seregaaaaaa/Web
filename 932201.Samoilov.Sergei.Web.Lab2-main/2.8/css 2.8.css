@@ -1,0 +1,42 @@
+body,html{
+margin:0%;
+}
+.box{
+display:flex;
+}
+.left{
+display: flex;
+flex-direction: column;
+}
+.up{
+position:static;
+background-color:bisque;
+width:200px;
+height:100px;
+margin-left:5px;
+margin-top:5px;
+}
+.down{
+position:relative;
+background-color:aqua;
+width:200px;
+height:calc(100% - 100px);
+margin-left:5px;
+}
+.content{
+position:relative;
+display:flex;
+font-size:17px;
+margin-top:5px;
+width:calc(100% - 205px);
+background-color:darkgray;
+}
+
+.green{
+position: fixed;
+background-color:limegreen;
+height: 100px;
+width:100%;
+bottom: 0px;
+left: 0px;
+}

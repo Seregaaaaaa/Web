@@ -1,0 +1,37 @@
+body,html{
+margin:0%;
+}
+.container {
+display: flex;
+border: 1px solid;
+border-color:green;
+background-color: aqua;
+}
+.list-box {
+background-color: bisque;
+width: 300px;
+height: 100px;
+padding: 5px;
+margin-right: 3px;
+}
+.text-box {
+position: relative;
+background-color: darkgray;
+margin-left:5px;
+margin-right: 10px;
+width: fit-content;
+}
+@media(max-width: 600px) {
+.container {
+flex-direction: column;
+}
+
+.text-box {
+float: left;
+margin-right: 130px;
+}
+
+.list-box {
+width: 120px;
+}
+}

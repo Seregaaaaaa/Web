@@ -1,0 +1,19 @@
+body,html{
+margin:0%;
+}
+.window{
+margin-left: auto;
+margin-right: auto;
+border:10px solid;
+border-color:white;
+width: 500px;
+
+}
+.border{
+padding:50px;
+border:10px solid;
+border-color:blue;
+margin-left: auto;
+margin-right: auto;
+width: 380px;
+}

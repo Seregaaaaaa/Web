@@ -1,0 +1,15 @@
+body,html{
+margin:0%;
+}
+.float{
+float:left;
+background-color:aquamarine;
+width:200px;
+height:100px;
+margin:10px 0 10px 10px;
+
+}
+.box{
+clear:left;
+background-color:bisque;
+}

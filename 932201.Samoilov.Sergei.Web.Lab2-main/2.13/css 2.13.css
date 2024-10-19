@@ -1,0 +1,43 @@
+body,html{
+margin: 0%;
+}
+
+.container {
+margin:5px;
+display: flex;
+border:1px solid;
+border-color: green;
+background-color: cyan;
+flex-direction: row;
+}
+img {
+width: 600px;
+height: 600px;
+clear: both;
+float: right;
+vertical-align: text-top;
+}
+.textCont {
+background-color: darkgray;
+display: flex;
+flex-direction: column;
+}
+.listCont {
+padding: 10px;
+min-width: 400px;
+max-width: 200px;
+background-color: bisque;
+}
+@media (max-width: 900px) {
+.text {
+float: left;
+width: fit-content;
+}
+img {
+width:200px;
+height:200px;
+}
+.list_container {
+width: 130px;
+}
+}

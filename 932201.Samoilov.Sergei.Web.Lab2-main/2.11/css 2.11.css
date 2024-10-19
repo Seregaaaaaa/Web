@@ -1,0 +1,16 @@
+body,html{
+margin:0%;
+}
+.window{
+display:flex;
+height:max-content;
+border:1px solid;
+border-color:darkgreen;
+background-color: aqua;
+margin:10px;
+}
+.hamster{
+display:block;
+float: right;
+margin-left:auto;
+}

@@ -1,0 +1,42 @@
+body,html{
+margin: 0%;
+}
+.main{
+margin:5px;
+display: flex;
+border:1px solid;
+border-color: green;
+background-color: cyan;
+flex-direction: row;
+}
+.text{
+position: relative;
+background-color:darkgray;
+}
+.list{
+min-width: 300px;
+max-width: 300px;
+background-color:bisque;
+}
+@media (max-width: 500px) {
+.main{
+flex-direction: column;
+}
+.list ul{
+overflow:hidden;
+}
+.list ul li{
+display:inline-block;
+}    
+.text{
+position:relative;
+float: left;
+width: 100%;
+}
+.list{
+margin-top: 20px;
+margin-bottom: 20px;
+min-width: 100%;
+max-width: 100%;
+}
+}

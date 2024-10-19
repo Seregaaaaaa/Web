@@ -1,0 +1,89 @@
+html{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  flex-flow: column;
+  display: flex;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+}
+
+header{
+  font-family:Arial;
+  height:30px;
+  background-color:green;
+  color:white;
+  font-size:25px;
+  text-align:center;
+  padding:10px;
+}
+
+footer{
+  font-family:Arial;
+  height:20px;
+  background-color:black;
+  color:white;
+  font-size:17px;
+  text-align:center;
+  padding:5px;
+}
+
+.container{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  flex: 1;
+}
+
+.menuContainer{
+  background-color: red;
+  padding: 15px;
+  min-width: 165px;
+  max-width: 165px;
+  margin-right: 20px;
+}
+
+ul{
+  display: inline-block;
+  padding-left: 40px;
+  padding-top: 10px;
+  width: 70%;
+  font-size: 15px;
+  list-style-type: none;
+  color: white;
+  text-decoration: underline;
+}
+
+li {
+  font-family: Arial;
+  margin-bottom: 15px;
+}
+li:hover {
+  background-color: green;
+}
+.text{
+  height: max-content;
+  margin: 15px;
+  margin-top:20px;
+  max-width: 500px;
+  text-align: justify;
+  font-family: Arial;
+}
+.text::selection {
+  color: white;
+  background: green;
+}
+.a {
+  color: red;
+  font-size: 24px;
+}
+
+@media (max-width: 800px), (max-height: 500px) {
+}

@@ -1,0 +1,56 @@
+body,html{
+margin:0%;
+}
+
+.green{
+position: fixed;
+background-color:forestgreen;
+color:white;
+height: 80px;
+bottom: 0px;
+right: 0px;
+}
+.purple{
+margin-left:5px;
+margin-top:5px;
+position:static;
+background-color:blueviolet;
+color:white;
+width: 150px;
+height: 100px;
+}
+.relative{
+margin-left:5px;
+position:relative;
+background-color:darkred;
+color:white;
+width: 150px;
+height: 100px;
+}
+.orange{
+position:relative;
+background-color:peru;
+color:white;
+width: 150px;
+height: 100px;
+left: 25px;
+top: -20px;
+}
+.pink{
+margin-left:5px;
+position:relative;
+background-color:indianred;
+color:white;
+width: 600px;
+height: 360px;
+}
+.absolute{
+position: absolute;
+background-color:indigo;
+color:white;
+width: 320px;
+height: 200px;
+top:90px;
+right: 0px;
+}
+
