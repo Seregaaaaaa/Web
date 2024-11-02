@@ -1,0 +1,35 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+input {
+    margin: 0;
+}
+.row{
+margin:0;
+display: flex;
+flex-direction: row;
+}
+button {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+.buttons {
+    margin:0;
+    display: flex;
+    flex-direction: column;
+}
+
+.addButton{
+    border: 1px solid gray;
+    outline: none;
+    width: fit-content;
+}
+.saveButton {
+    border: 1px solid gray;
+    outline: none;
+    width: fit-content;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Frontend Task №9</title>
+        <link rel="stylesheet" href="css.css" />
+        <meta charset="UTF-8"/>
+    </head>
+
+    <body>
+        <div class="bigContainer" id="bigContainer">
+      <div class="row">
+        <input type="text" class="text">
+        <input type="text" class="value">
+        <button class="Up" onclick="Up(this)">↑</button>
+        <button class="Down" onclick="Down(this)">↓</button>
+        <button class="Remove" onclick="removeDoc(this)">x</button>
+      </div>
+    </div>
+    <div class="buttons">
+      <button class="addButton" onclick="addDocument()">
+        Добавить элемент
+      </button>
+      <button class="saveButton" onclick="saveDocument()">Сохранить</button>
+    </div>
+    <div class="jsonResult"></div>
+    <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>
