@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>       
+        <link rel="stylesheet" type="text/css" href="css.css">
+        <title>Practice 10</title>
+    </head>
+    <body>
+        <table id="calc">
+            <tr>
+                <td colspan="5"><input type="text" id="result"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="7" onclick="inp('7')"> </td>
+                <td><input type="button" value="8" onclick="inp('8')"> </td>
+                <td><input type="button" value="9" onclick="inp('9')" > </td>
+                <td><input type="button" value="/" onclick="inp('/')" > </td>
+                <td><input type="button" value="C" onclick="clearTv(this)"/> </td>            
+            </tr>
+            <tr>
+                <td><input type="button" value="4" onclick="inp('4')"> </td>
+                <td><input type="button" value="5" onclick="inp('5')"> </td>
+                <td><input type="button" value="6" onclick="inp('6')"> </td>
+                <td><input type="button" value="*" onclick="inp('*')"> </td>            
+                <td><input type="button" value="&lt;-" onclick="back()"> </td>
+            </tr>
+            <tr>
+                <td><input type="button" value="1" onclick="inp('1')"  > </td>
+                <td><input type="button" value="2" onclick="inp('2')"  > </td>
+                <td><input type="button" value="3" onclick="inp('3')" > </td>
+                <td><input type="button" value="-" onclick="inp('-')" > </td>
+                <td rowspan="2"><input type="button" value="=" onclick="solve()"> </td>             
+            </tr>
+            <tr>
+                <td colspan="2"><input type="button" value="0" onclick="inp('0')"  > </td>
+                <td><input type="button" value="." onclick="inp('.')"> </td>
+                <td><input type="button" value="+" onclick="inp('+')"> </td>
+                
+            </tr>
+        </table>
+    
+    </body>
+            <script type="text/javascript" src="script.js"></script>
+        
+</html>
