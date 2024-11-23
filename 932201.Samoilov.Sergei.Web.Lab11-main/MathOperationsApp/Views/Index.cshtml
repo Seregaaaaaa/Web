@@ -1,0 +1,37 @@
+@model MathOperationsApp.Models.MathViewModel
+@{
+    ViewBag.Title = "Math Operations";
+}
+
+<h2>Math Operations</h2>
+
+<form asp-action="Calculate" method="post">
+    <div>
+        <label>Number 1: @Model.Number1</label>
+        <input type="hidden" asp-for="Number1" />
+    </div>
+    <div>
+        <label>Number 2: @Model.Number2</label>
+        <input type="hidden" asp-for="Number2" />
+    </div>
+    <div>
+        <button type="submit" name="operation" value="Add">Add</button>
+        <button type="submit" name="operation" value="Subtract">Subtract</button>
+        <button type="submit" name="operation" value="Multiply">Multiply</button>
+        <button type="submit" name="operation" value="Divide">Divide</button>
+    </div>
+</form>
+
+@if (Model.Result.HasValue)
+{
+    <div>
+        <h3>Result: @Model.Result</h3>
+    </div>
+}
+
+@if (ViewBag.Error != null)
+{
+    <div style="color: red;">
+        <h3>@ViewBag.Error</h3>
+    </div>
+}
