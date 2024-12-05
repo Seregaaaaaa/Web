@@ -1,0 +1,24 @@
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.csproj.AssemblyReference.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.AssemblyInfoInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.AssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.csproj.CoreCompileInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.RazorAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.RazorAssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\appsettings.Development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\appsettings.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.staticwebassets.runtime.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.exe
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.deps.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.runtimeconfig.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Backend 3.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\scopedcss\bundle\Backend 3.styles.css
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\refint\Backend 3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Backend 3.genruntimeconfig.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\ref\Backend 3.dll
