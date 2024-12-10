@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvHxOANVvYIrHvAVtMsfA7zpp+by1JTvQDUpV27hHXkTtsaMHwocaw7cR8dnTaLI6y9Z4TkM234Frl39zjsQuw==",
+  "success": true,
+  "projectFilePath": "/Users/sergei.samoilov/Documents/Учеба/Учеба_3.1/Web-технологии/Web/932201.Samoilov.Sergei.Web.Lab14-main/Sergei14/Sergei14.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergei.samoilov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/sergei.samoilov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/sergei.samoilov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
